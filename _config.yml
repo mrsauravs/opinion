@@ -1,57 +1,65 @@
-# Build settings
-gems:
-  - jemoji
+# Site
+name: 'Opinion'
+description: 'A platform to discuss on social issues.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/opinion'
+disqus: 'theinverselattice'
+email: 'mrsauravs@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    Saurabh:
+      name:           Saurabh Sugandh
+      site:           https://inverselattice.com
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Saurabh Sugandh, a non-fictional author, who believes in busting social stigma and pseudo-science."
+      email:          mrsauravs@gmail.com
+      twitter:        https://twitter.com/sugandh_saurabh
 
-# Site settings
-title: "Opinion"
-description: > # this means to ignore newlines until "email:"
-   A platform created and dedicated for educated idiots only.
+    Angelica:
+      name:           Angelica Volynets
+      site:           https://inverselattice.com
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          anzhalika.valynets@gmail.com
+#      twitter:        https://twitter.com/wowthemesnet
+ 
+# Defaults
+defaults:
 
-email: mrsauravs@gmail.com
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: Saurabh
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
 
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+# Paginate
+paginate: 10
 
-name: 'Saurabh Sugandh'
-author: 'Saurabh Sugandh'
-author_image: "/assets/images/author.jpg"
 
-paginate:	5
 
-url: "https://mrsauravs.github.io" # the base hostname & protocol for your site
-baseurl: "/opinion"
-#used to display twitter cards
-twitter_handle: '@sugandh_saurabh'
-
-#fill in disqus shortname to use disqus
-disqus: inverselattice
-
-#google_analytics: UA-XXXXX-X
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/sugandh_saurabh
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/mrsauravs
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
