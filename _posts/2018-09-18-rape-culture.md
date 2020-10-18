@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rape (Indian) culture: Get paid after a rape!"
-author: Saurabh Sugandh
+author: saurabh
 categories: [ Social]
 date:   2018-09-18 18:05:55 +0300
 image:  'assets/images/force.jpg'

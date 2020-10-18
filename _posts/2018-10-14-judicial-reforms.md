@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Judicial Reforms: Populist or futuristic?"
-author: Saurabh Sugandh
+author: saurabh
 categories: [ Social]
 date:   2018-10-14 18:05:55 +0300
 image:  'assets/images/judreform.png'

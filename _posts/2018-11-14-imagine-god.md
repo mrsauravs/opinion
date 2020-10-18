@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to be an Athiest?"
-author: Saurabh Sugandh
+author: saurabh
 categories: [ Theology]
 date:   2018-11-14 18:05:55 +0300
 image:  'assets/images/religion.png'
