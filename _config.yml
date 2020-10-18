@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Saurabh:
+    saurabh:
       name:           Saurabh Sugandh
       site:           https://inverselattice.com
       avatar:         /assets/images/avatar1.jpg
@@ -27,7 +27,7 @@ authors:
       email:          mrsauravs@gmail.com
       twitter:        https://twitter.com/sugandh_saurabh
 
-    Angelica:
+    angelica:
       name:           Angelica Volynets
       site:           https://inverselattice.com
       avatar:         /assets/images/avatar2.jpg
