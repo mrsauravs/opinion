@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Opinion by Inverse Lattice"
+title: "Opinion"
 description: > # this means to ignore newlines until "email:"
-   A platform for educated idiots.
+   A platform created and dedicated for educated idiots only.
 
 email: mrsauravs@gmail.com
 #blog logo
