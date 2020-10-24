@@ -5,7 +5,7 @@ author: saurabh
 categories: [ Social]
 date:   2020-06-24 18:05:55 +0300
 image:  'assets/images/covid1.png'
-tags: [Russia, US, India, Italy, China]
+tags: [Influenza, RNA, WHO, Genome, Surveillance, Lockdown, Economy, Vaccines, US, New Zealand]
 ---
 
 With the recent COVID-19 (SARS-CoV-2) outbreak, the entire world has come to a standstill. Countries have imposed a complete lockdown on the recommendations of WHO and closed borders within the country and also across. Now that we are in a global pandemic, we must need to explore the possibilities of finding a cure. And to do that, we must first understand the virus, it’s contagious nature, and the repercussions that entails it.
