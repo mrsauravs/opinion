@@ -4,8 +4,8 @@ title:  "What's so "great" about Britain?"
 author: saurabh
 categories: [ Satire ]
 date:   2020-12-23 18:05:55 +0300
-image:  'assets/images/greatbritain.jpg'
-tags: [India, Narendra Modi, UK, Great Britain, EU, Boris Johnson, UK admissions, International Students, Herd Immunity, Brexit]
+image:  'assets/images/britain.jpg'
+tags: [India, Narendra Modi, UK, Great Britain, EU, Boris Johnson, International Students, Herd Immunity, Brexit]
 ---
 
 If you have watched Rick Steves Europe, you might be flabbergasted or lost to the beauty of Europe. There’s indeed a great deal of charm in the european countries. The United Kingdom on the other hand is a bit different. Though it is still a well maintained or managed country, it’s glory in the last few decades has deteriorated immensely due to the sudden ingestion of immigrants. In a way it is justified because the United Kingdom that we know of today has a long history of bullying independent countries and annexing them to their territory. Their greatness began sometime in 1707 when they added the Kingdom of Scotland and Wales to their territory. In 1801, the Republic of Ireland joined it and then left the Greatness forgetting about their northern territory. The remainder of that Great alliance is what is called the United Kingdom. However, the cunning brits have chosen to reserve the name “Great” for being the largest island in the British Isles.
