@@ -2,7 +2,7 @@
 layout: post
 title:  "What's so "great" about Britain?"
 author: saurabh
-categories: [Satire]
+categories: [ Satire]
 date:   2020-12-24 18:05:55 +0300
 image:  'assets/images/greatbritain.jpg'
 tags: [India, Narendra Modi, UK, Great Britain, EU, Boris Johnson, UK admissions, International Students, Herd Immunity, Brexit]
