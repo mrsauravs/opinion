@@ -2,7 +2,7 @@
 layout: post
 title:  "The Great Pandemic: Scare Vs Cure"
 author: saurabh
-categories: [Social]
+categories: [Science]
 date:   2021-07-16 18:05:55 +0300
 image:  'assets/images/covid1.png'
 tags: [COVID-19, SARS-CoV-2, WHO, China, Mask, Social Distancing, US, Russia, India, Putin, Modi, Science, Politics]
