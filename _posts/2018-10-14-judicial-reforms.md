@@ -5,7 +5,7 @@ author: saurabh
 categories: [ Social]
 date:   2018-10-14 18:05:55 +0300
 image:  'assets/images/judreform.png'
-tags:   [Law, Judiciary, Section 198, Section 377, Supreme Court]
+tags:   [featured, Law, Judiciary, Section 198, Section 377, Supreme Court]
 ---
 
 Talking about sexuality is a taboo in India and this could either put you in a bad position or worse but never the best. May be, the precise reason why we have overpopulation problem. There are two issues to look at in Indian context. Recently, apex court of India has decriminalised section 377 and section 497 of Indian Penal code. Both verdicts received mixed views.
