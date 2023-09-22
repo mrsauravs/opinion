@@ -3,7 +3,7 @@ layout: post
 title:  "FVEY or The Highway!"
 author: saurabh
 categories: [Politics, Technology, Data]
-date:   2023-09-23 09:05:55 +0300
+date:   2023-09-22 09:05:55 +0300
 image:  'assets/images/india-canada.png'
 tags: [featured, Aadhar, Justin Trudeau, Narendra Modi, Canada, India, media, geopolitics, Khalistan, Putin, Europe, EU, Ukraine, Russia, NATO, US, FVEY, Biden, social media, South Asia, data]
 ---
