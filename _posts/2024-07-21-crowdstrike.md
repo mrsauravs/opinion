@@ -7,7 +7,7 @@ date:   2024-07-20 09:05:55 +0300
 image:  'assets/images/crowdstrike.png'
 tags:   [CrowdStrike, Cybersecurity, IT Trend, Layoff, Cloud, Microsoft, Linux]
 ---
-The recent incident with Crowdstrike is a big one in computing history. 
+The recent incident with CrowdStrike is a big one in computing history. 
 This is the biggest outage that the world has faced without encountering a cyber attack. 
 In order to not face such an unnecessary and easily avoidable issue, we need to set the context right. 
 In the last decade, we have seen a major shift in the adoption of cloud services instead of going infrastructure mode. 
