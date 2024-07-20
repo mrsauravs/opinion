@@ -2,8 +2,8 @@
 layout: post
 title:  "CrowdStrike: Reboot to Stability"
 author: saurabh
-categories: [ Technology]
-date:   2024-07-21 18:05:55 +0300
+categories: [Politics, Technology, Data]
+date:   2024-07-21 09:05:55 +0300
 image:  'assets/images/crowdstrike.png'
 tags:   [CrowdStrike, Cybersecurity, IT Trend, Layoff, Cloud, Microsoft, Linux]
 ---
