@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crowdstrike: Reboot to Stability"
+title:  "CrowdStrike: Reboot to Stability"
 author: saurabh
 categories: [ Technology]
 date:   2024-07-21 18:05:55 +0300
