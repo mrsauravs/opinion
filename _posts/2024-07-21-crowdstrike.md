@@ -4,7 +4,7 @@ title:  "CrowdStrike: Reboot to Stability"
 author: saurabh
 categories: [ Technology]
 date:   2024-07-21 18:05:55 +0300
-image:  'assets/images/crowdstrike.jpg'
+image:  'assets/images/crowdstrike.png'
 tags:   [CrowdStrike, Cybersecurity, IT Trend, Layoff, Cloud, Microsoft, Linux]
 ---
 The recent incident with Crowdstrike is a big one in computing history. 
