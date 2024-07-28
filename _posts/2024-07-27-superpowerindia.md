@@ -33,7 +33,7 @@ This allows them to do a quick verification if required.
 You must know that the mere intention of creating the Aadhaar system in India was tracking its citizens.
 And, this is done in every democracy of the world.
 The irony is that the Aadhaar system was reduced to being only a marketing gimmick and I mean it in literal sense.
-The irony is that the data you share with these departments is finally sold to the advertising markets to target you in return. 
+The data you share with these departments is finally sold to the advertising markets to target you in return. 
 Maybe, this was the ultimate service that you are allowed to dream of in the world’s largest democracy.
  
 The financial freedom in India is a misnomer too.
