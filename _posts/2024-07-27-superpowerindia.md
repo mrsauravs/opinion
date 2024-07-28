@@ -50,7 +50,7 @@ The middle income group has widened quite a lot in recent years and the income n
 So, there ought to be a new division in the tax slab that covers it well. 
 Unfortunately, people who waited to see the 2024 Union Budget couldn’t even see this coming in the near future.
 
-To top that, the pathetic state of infrastructure in India and the growing decline in public health are often ignored as if they don’t mean anything in India.
+To top that, the pathetic state of infrastructure in India and the growing decline in public health are often ignored as if they don’t mean anything.
 Your well being is not the responsibility of the state but only yours.
 And for that you have to pay the ransom in the name of taxes.
 
