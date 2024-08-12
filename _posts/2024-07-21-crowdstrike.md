@@ -5,7 +5,7 @@ author: saurabh
 categories: [Politics, Technology, Data]
 date:   2024-07-20 09:05:55 +0300
 image:  'assets/images/crowdstrike.png'
-tags:   [sticky, CrowdStrike, Cybersecurity, IT Trend, Layoff, Cloud, Microsoft, Linux]
+tags:   [CrowdStrike, Cybersecurity, IT Trend, Layoff, Cloud, Microsoft, Linux]
 ---
 The [recent incident](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) with CrowdStrike is a big one in computing history. 
 This is the biggest outage that the world has faced without encountering a cyber attack. 
