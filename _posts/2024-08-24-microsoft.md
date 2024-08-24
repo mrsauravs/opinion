@@ -27,7 +27,7 @@ Though it didn’t seem like a bad decision initially, the recent events opened 
 CrowdStrike is not an isolated incident and you might be surprised to note that there are several other critical known issues that have caused concerns among Microsoft Windows users. 
 People who are using the Windows 11 versions 21H2, 22H2, or 23H2 are all impacted by it. 
 
-<img src="/assets/images/microsoft-issues.png" alt="Microsoft OS Known Issues" title="Critical Known Issues" width="550" height="500" class="center"/>
+<img src="/assets/images/microsoft-issues.png" alt="Microsoft OS Known Issues" title="Critical Known Issues" width="550" height="750" class="center"/>
 
 The last issue that happened a few days back affected a few Linux enthusiasts who love to dual or triple boot their systems with Microsoft Windows. 
 This latest issue causes the GRUB bootloader to freeze and prevent other operating systems to boot that have not been signed for the secure boot. 
