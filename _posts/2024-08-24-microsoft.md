@@ -5,7 +5,7 @@ author: saurabh
 categories: [Technology, OS, Security]
 date:   2024-08-24 09:05:55 +0300
 image:  'assets/images/ms.png'
-tags:   [sticky, CrowdStrike, Cybersecurity, Microsoft, IT Trend, Layoff, Cloud, Microsoft, Linux, Opensource]
+tags:   [CrowdStrike, Cybersecurity, Microsoft, IT Trend, Layoff, Cloud, Microsoft, Linux, Opensource]
 ---
 The recent CrowdStrike update that caused mayhem around the PC world resulted in the loss of several billions of dollars for some organizations. 
 Some will take matters to the court while some will continue to pamper CrowdStrike for security bullshit. 
